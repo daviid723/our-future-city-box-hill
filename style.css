@@ -166,7 +166,7 @@ img {
 #showcase {
   margin: 0;
   padding: 0;
-  background: url("../img/flower.jpg") no-repeat
+  background-imgage: url("../img/flower.jpg") no-repeat
   center/cover;
   height: 100vh;
   position: relative;
