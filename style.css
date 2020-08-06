@@ -166,7 +166,7 @@ img {
 #showcase {
   margin: 0;
   padding: 0;
-  background: url("/img/flower.jpg") no-repeat
+  background: url("https://images.pexels.com/photos/886521/pexels-photo-886521.jpeg?cs=srgb&dl=pexels-alena-koval-886521.jpg&fm=jpg") no-repeat
   center/cover;
   height: 100vh;
   position: relative;
